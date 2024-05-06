@@ -1,0 +1,508 @@
+
+{"Animalism": {
+    "1": "Feral Whispers",
+    "2": "Beckoning",
+    "3": "Quell the Beast",
+    "4": "Subsume the Spirit",
+    "5": "Drawing Out the Beast",
+    "6": "Animal Succulence",
+    "6_extra1": "Eye of the Szlachta",
+    "6_extra2": "Shared Soul",
+    "6_extra3": "Species Speech",
+    "7": "Conquer the Beast",
+    "8": "Taunt the Caged Beast",
+    "9": "Flesh Bond",
+    "10": "Unchain the Beast"
+  },
+  "Assamite Sorcery - Awakening of the Steel": {
+    "1": "Confer with the Blade",
+    "2": "Grasp of the Mountain",
+    "3": "Pierce Steel's Skin",
+    "4": "Razor's Shield",
+    "5": "Strike at the True Flesh"
+  },
+  "Auspex": {
+    "1": "Heightened Senses",
+    "2": "Aura Perception",
+    "3": "The Spirit's Touch",
+    "4": "Telepathy",
+    "5": "Psychic Projection",
+    "6": "Babble",
+    "6_extra1": "Clairvoyance",
+    "6_extra2": "Prediction",
+    "6_extra3": "Sibyl’s Tongue",
+    "6_extra4": "Telepathic Communication",
+    "7": "Karmic Sight",
+    "7_extra1": "Mirror Reflex",
+    "8": "Psychic Assault",
+    "9": "False Slumber"
+  },
+  "Bardo": {
+    "1": "Restore Humanitas",
+    "2": "Banishing Sign of Thoth",
+    "3": "Gift of Apis",
+    "4": "Pillar of Osiris",
+    "5": "Paradox",
+    "6": "Boon of Anubis",
+    "7": "Bring Forth the Dawn",
+    "8": "Mummification",
+    "9": "Ra’s Blessing"
+  },
+  "Celerity": {
+    "1-5": "Celerity",
+    "6": "Projectile",
+    "6_extra1": "Tireless Tread",
+    "7": "Flower of Death",
+    "8": "Zephyr"
+  },
+  "Chimerstry": {
+    "1": "Ignis Fatuus",
+    "2": "Fata Morgana",
+    "3": "Apparition",
+    "4": "Permanency",
+    "5": "Horrid Reality",
+    "6": "False Resonance",
+    "6_extra1": "Fatuus Mastery",
+    "6_extra2": "Shared Nightmare",
+    "6_extra3": "Subtle Spy",
+    "7": "Far Fatuus",
+    "7_extra1": "Suspension of Disbelief",
+    "8": "Synesthesia",
+    "9": "Mayaparisatya"
+  },
+  "Daimoinon": {
+    "1": "Sense the Sin",
+    "2": "Fear of the Void Below",
+    "3": "Conflagration",
+    "4": "Psychomachia",
+    "5": "Condemnation",
+    "6": "Concordance",
+    "7": "Summon the Herald of Topheth",
+    "8": "Contagion",
+    "9": "Call the Great Beast"
+  },
+  "Dementation": {
+    "1": "Passion",
+    "2": "The Haunting",
+    "3": "Eyes of Chaos",
+    "4": "Voice of Madness",
+    "5": "Total Insanity",
+    "6": "Lingering Malaise",
+    "6_extra1": "Shattered Mirror",
+    "7": "Restructure",
+    "8": "Personal Scourge",
+    "9": "Lunatic Eruption"
+  },
+  "Dominate": {
+    "1": "Command",
+    "2": "Mesmerize",
+    "3": "The Forgetful Mind",
+    "4": "Conditioning",
+    "5": "Possession",
+    "6": "Chain the Psyche",
+    "6_extra1": "Fealty",
+    "6_extra2": "Loyalty",
+    "6_extra3": "Obedience",
+    "7": "Mass Manipulation",
+    "7_extra1": "Still the Mortal Flesh",
+    "8": "Far Mastery",
+    "9": "Speak Through the Blood"
+  },
+  "Flight": {
+    "1-9": "Flight"
+  },
+  "Fortitude": {
+    "1-5": "Fortitude",
+    "6": "Alabastard",
+    "6_extra1": "Personal Armor",
+    "7": "Shared Strength",
+    "8": "Adamantine"
+  },
+  "Koldunic Sorcery - The Way of Earth": {
+    "1": "Grasping Soil",
+    "2": "Endurance of Stone",
+    "3": "Hungry Earth",
+    "4": "Root of Vitality",
+    "5": "Kupala’s Fury"
+  },
+  "Koldunic Sorcery - The Way of Fire": {
+    "1": "Fiery Courage",
+    "2": "Combust",
+    "3": "Wall of Magma",
+    "4": "Heat Wave",
+    "5": "Volcanic Blast"
+  },
+  "Koldunic Sorcery - The Way of Water": {
+    "1": "Pool of Lies",
+    "2": "Watery Haven",
+    "3": "Fog Over Sea",
+    "4": "Minions of the Deep",
+    "5": "Doom Tide"
+  },
+  "Koldunic Sorcery - The Way of Wind": {
+    "1": "Breath of Whispers",
+    "2": "Biting Gale",
+    "3": "Breeze of Lethargy",
+    "4": "Ride the Tempest",
+    "5": "Tempest"
+  },
+  "Melpominee": {
+    "1": "The Missing Voice",
+    "2": "Phantom Speaker",
+    "3": "Madrigal",
+    "4": "Siren's Beckoning",
+    "5": "Virtuosa",
+    "6": "Mosh Pit",
+    "6_extra1": "Primal Scream",
+    "6_extra2": "Shattering Crescendo",
+    "7": "Haunting Melody",
+    "7_extra1": "Persistent Echo",
+    "8": "Calling Song"
+  },
+  "Mytherceria": {
+    "1": "Folderol",
+    "2": "Fae Sight",
+    "3": "Aura Absorption",
+    "4": "Chanjelin Ward",
+    "5": "The Riddle Phantastique",
+    "6": "Steal the Mind",
+    "7": "Absorb the Mind",
+    "8": "The Grandest Trick"
+  },
+  "Necromancy - The Ash Path": {
+    "1": "Shroudsight",
+    "2": "Lifeless Tongues",
+    "3": "Dead Hand",
+    "4": "Ex Nihilo",
+    "5": "Shroud Mastery"
+  },
+  "Necromancy - The Bone Path": {
+    "1": "Tremens",
+    "2": "Apprentice's Brooms",
+    "3": "Shambling Hordes",
+    "4": "Soul Stealing",
+    "5": "Daemonic Possession"
+  },
+  "Necromancy - The Cenotaph Path": {
+    "1": "A Touch of Death",
+    "2": "Reveal the Catene",
+    "3": "Tread Upon the Grave",
+    "4": "Death Knell",
+    "5": "Ephemeral Binding"
+  },
+  "Necromancy - The Corpse in the Monster": {
+    "1": "Masque of Death",
+    "2": "Cold in the Grave",
+    "3": "Curse of Life",
+    "4": "Gift of the Corpse",
+    "5": "Gift of Life"
+  },
+  "Necromancy - Path of the Four Humors": {
+    "1": "Whispers to the Soul",
+    "2": "Kiss of the Dark Mother",
+    "3": "Dark Humors",
+    "4": "Clutching the Shroud",
+    "5": "Black Breath"
+  },
+  "Necromancy - The Grave’s Decay": {
+    "1": "Destroy the Husk",
+    "2": "Rigor Mortis",
+    "3": "Wither",
+    "4": "Corrupt the Undead Flesh",
+    "5": "Dissolve the Flesh"
+  },
+  "Necromancy - The Sepulchre Path": {
+    "1": "Witness of Death",
+    "2": "Summon Soul",
+    "3": "Compel Soul",
+    "4": "Haunting",
+    "5": "Torment"
+  },
+  "Necromancy - The Vitreous Path": {
+    "1": "Eyes of the Dead",
+    "2": "Aura of Decay",
+    "3": "Soul Feast",
+    "4": "Breath of Thanatos",
+    "5": "Night Cry"
+  },
+  "Obeah": {
+    "1": "Sense Vitality",
+    "2": "Anesthetic Touch",
+    "3": "Corpore Sano",
+    "4": "Shepherd’s Watch",
+    "5": "Mens Sana",
+    "6": "Unburdening the Bestial Soul",
+    "7": "Renewed Vigor",
+    "8": "Safe Passage",
+    "9": "Unbind the Flesh-Clad Soul"
+  },
+  "Obfuscate": {
+    "1": "Cloak of Shadows",
+    "2": "Unseen Presence",
+    "3": "Mask of a Thousand Faces",
+    "4": "Vanish from the Mind's Eye",
+    "5": "Cloak the Gathering",
+    "6": "Conceal",
+    "6_extra1": "Mind Blank",
+    "6_extra2": "Scrawl",
+    "6_extra3": "Soul Mask",
+    "7": "Cache",
+    "7_extra1": "Veil of Blissful Ignorance",
+    "8": "Old Friend",
+    "9": "Create Name"
+  },
+  "Obtenebration": {
+    "1": "Shadow Play",
+    "2": "Shroud of Night",
+    "3": "Arms of the Abyss",
+    "4": "Black Metamorphosis",
+    "5": "Tenebrous Form",
+    "6": "The Darkness Within",
+    "6_extra1": "Shadowstep",
+    "7": "Shadow Twin",
+    "8": "Oubliette",
+    "9": "Ahriman's Demesne"
+  },
+  "Ogham": {
+    "1": "Consecrate the Grove",
+    "2": "Crimson Woad",
+    "3": "Inscribe the Curse",
+    "4": "Moon and Sun",
+    "5": "Drink Dry the Earth",
+    "6": "Inscribe the Forgotten Names"
+  },
+  "Potence": {
+    "1-5": "Potence",
+    "6": "Imprint",
+    "6_extra1": "Relentless Pursuit",
+    "7": "Earthshock",
+    "8": "Flick"
+  },
+  "Presence": {
+    "1": "Awe",
+    "2": "Dread Gaze",
+    "3": "Entrancement",
+    "4": "Summon",
+    "5": "Majesty",
+    "6": "Love",
+    "6_extra1": "Paralyzing Glance",
+    "6_extra2": "Spark of Rage",
+    "6_extra3": "Star Magnetism",
+    "6_extra4": "Temptation",
+    "6_extra5": "Vengeance of the Martyr’s Legacy",
+    "7": "Cooperation",
+    "7_extra1": "Phobia",
+    "7_extra2": "Scourging the Instinct",
+    "7_extra3": "Vengeance of the Martyr’s Legacy",
+    "8": "The Decaying Orbit",
+    "8_extra1": "Ironclad Command",
+    "9": "Pulse of the City"
+  },
+  "Protean": {
+    "1": "Eyes of the Beast",
+    "2": "Feral Claws",
+    "3": "Earth Meld",
+    "4": "Shape of the Beast",
+    "5": "Mist Form",
+    "6": "Blissful Summer",
+    "6_extra1": "Earth Control",
+    "6_extra2": "Flesh of Marble",
+    "6_extra3": "Shape Mastery",
+    "6_extra4": "Smoke and Mirrors",
+    "7": "Animal Swarm",
+    "7_extra1": "Restore the Mortal Visage",
+    "7_extra2": "Shape of the Beast's Wrath",
+    "7_extra3": "Spectral Body",
+    "7_extra4": "Turnabout",
+    "8": "Mythic Form",
+    "8_extra1": "Purify the Impaled Breast",
+    "9": "Inward Focus"
+  },
+  "Quietus": {
+    "1": "Silence of Death",
+    "2": "Scorpion's Touch",
+    "3": "Dagon's Call",
+    "4": "Baal's Caress",
+    "5": "Taste of Death",
+    "6": "Blood Sweat",
+    "6_extra1": "Purification",
+    "6_extra2": "Ripples of the Heart",
+    "6_extra3": "Selective Silence",
+    "7": "Baal's Bloody Talons",
+    "7_extra1": "Poison the Well of Life",
+    "8": "Songs of Distant Vitae",
+    "9": "Condemn the Sins of the Father"
+  },
+  "Sanguinus": {
+    "1": "Brother's Blood",
+    "2": "Octopod",
+    "3": "Gestalt",
+    "4": "Walk of Caine",
+    "5": "Coagulated Entity"
+  },
+  "Serpentis": {
+    "1": "The Eyes of the Serpent",
+    "2": "The Tongue of the Asp",
+    "3": "The Skin of the Adder",
+    "4": "The Form of the Cobra",
+    "5": "The Heart of Darkness",
+    "6": "Cobra Fangs",
+    "7": "Divine Image",
+    "8": "Heart Thief",
+    "9": "Shadow of Apep"
+  },
+  "Spiritus": {
+    "1": "Air from Spirits",
+    "2": "Summon Spirit Beasts",
+    "3": "Aspect of the Beast",
+    "4": "Engling Fury",
+    "5": "The Wild Beast"
+  },
+  "Temporis": {
+    "1": "Hourglass of the Mind",
+    "2": "Recurring Contemplation",
+    "3": "Leaden Moment",
+    "4": "Patience of the Norns",
+    "5": "Clotho's Gift",
+    "6": "Insight",
+    "6_extra1": "Kiss of Lachesis",
+    "7": "Cheat the Fates",
+    "8": "Clio's Kiss",
+    "8_extra1": "Temporal Understanding",
+    "8_extra2": "Rewind",
+    "9": "Tangle Atropos' Hand"
+  },
+  "Thanatosis": {
+    "1": "Hags' Wrinkles",
+    "2": "Putrefaction",
+    "3": "Ashes to Ashes",
+    "4": "Withering",
+    "5": "Necrosis",
+    "6": "Creeping Infection",
+    "6_extra1": "Marrow Sucker",
+    "7": "Dust to Dust",
+    "8": "Putrescent Servitude"
+  },
+  "Thaumaturgical Countermagic": {
+    "1": "Thaumaturgical Countermagic",
+    "2": "Thaumaturgical Countermagic",
+    "3": "Thaumaturgical Countermagic",
+    "4": "Thaumaturgical Countermagic",
+    "5": "Thaumaturgical Countermagic"
+  },
+  "Thaumaturgy - Elemental Mastery": {
+    "1": "Elemental Strength",
+    "2": "Wooden Tongues",
+    "3": "Animate the Unmoving",
+    "4": "Elemental Form",
+    "5": "Summon Elemental"
+  },
+  "Thaumaturgy - The Green Path": {
+    "1": "Herbal Wisdom",
+    "2": "Speed the Season's Passing",
+    "3": "Dance of Vines",
+    "4": "Verdant Haven",
+    "5": "Awaken the Forest Giants"
+  },
+  "Thaumaturgy - Hands of Destruction": {
+    "1": "Decay",
+    "2": "Gnarl Wood",
+    "3": "Acidic Touch",
+    "4": "Atrophy",
+    "5": "Turn to Dust"
+  },
+  "Thaumaturgy - Movement of the Mind": {
+    "1": "Movement of the Mind",
+    "2": "Movement of the Mind",
+    "3": "Movement of the Mind",
+    "4": "Movement of the Mind",
+    "5": "Movement of the Mind"
+  },
+  "Thaumaturgy - Neptune’s Might": {
+    "1": "Eyes of the Sea",
+    "2": "Prison of Water",
+    "3": "Blood to Water",
+    "4": "Flowing Wall",
+    "5": "Dehydrate"
+  },
+  "Thaumaturgy - The Path of Blood": {
+    "1": "A Taste for Blood",
+    "2": "Blood Rage",
+    "3": "Blood of Potency",
+    "4": "Theft of Vitae",
+    "5": "Cauldron of Blood"
+  },
+  "Thaumaturgy - The Path of Conjuring": {
+    "1": "Summon the Simple Form",
+    "2": "Permanency",
+    "3": "Magic of the Smith",
+    "4": "Reverse Conjuration",
+    "5": "Power Over Life"
+  },
+  "Thaumaturgy - The Path of Corruption": {
+    "1": "Contradict",
+    "2": "Subvert",
+    "3": "Dissociate",
+    "4": "Addiction",
+    "5": "Dependence"
+  },
+  "Thaumaturgy - The Path of the Father’s Vengeance": {
+    "1": "Zillah's Litany",
+    "2": "The Crone's Pride",
+    "3": "Feast of Ashes",
+    "4": "Uriel's Disfavor",
+    "5": "Valediction"
+  },
+  "Thaumaturgy - The Path of Mars": {
+    "1": "War Cry",
+    "2": "Strike True",
+    "3": "Wind Dance",
+    "4": "Fearless Heart",
+    "5": "Comrades at Arms"
+  },
+  "Thaumaturgy - The Path of Technomancy": {
+    "1": "Analyze",
+    "2": "Burnout",
+    "3": "Encrypt/Decrypt",
+    "4": "Remote Access",
+    "5": "Telecommute"
+  },
+  "Thaumaturgy - Weather Control": {
+    "1": "Weather Control",
+    "2": "Weather Control",
+    "3": "Weather Control",
+    "4": "Weather Control",
+    "5": "Weather Control"
+  },
+  "Valeren": {
+    "1": "Sense Vitality",
+    "2": "Anesthetic Touch",
+    "2_extra": "Auguring the Sickness",
+    "3": "Burning Touch",
+    "4": "Armor of Caine’s Fury",
+    "5": "Vengeance of Samiel",
+    "6": "Blissful Agony"
+  },
+  "Vicissitude": {
+    "1": "Malleable Visage",
+    "2": "Fleshcraft",
+    "3": "Bonecraft",
+    "4": "Horrid Form",
+    "5": "Bloodform",
+    "6": "Blood of Acid",
+    "6_extra1": "Chiropteran Marauder",
+    "6_extra2": "Ecstatic Agony",
+    "7": "Cocoon",
+    "7_extra1": "Kraken’s Kiss",
+    "8": "Breath of the Dragon",
+    "8_extra1": "Oathbreaker",
+    "9": "Earth's Vast Haven"
+  },
+  "Visceratika": {
+    "1": "Skin of the Chameleon",
+    "2": "Scry the Hearthstone",
+    "3": "Bond with the Mountain",
+    "4": "Armor of Terra",
+    "5": "Flow Within the Mountain"
+  }
+}
