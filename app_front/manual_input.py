@@ -41,7 +41,7 @@ abilities = list(chain.from_iterable([list(dict_abilities[key].keys()) for key i
 
 
 
-other_traits = ['willpower', 'blood pool']
+other_traits = ['willpower', 'blood pool', 'humanity']
 dict_trait_lists = {'ability': abilities, 'attribute': attributes, 'other': other_traits} 
 complete_traits_list = abilities + attributes + other_traits
 
