@@ -21,7 +21,7 @@ if st.button('Reset Session State'):
     st.experimental_rerun()  
 
 
-path_levels = "/home/julian/Documents/Projects/vampyre/util_files/level_trais.json"
+path_levels = "/home/julian/Documents/Projects/vampyre/util_files/level_traits.json"
 path_base_attributes = "/home/julian/Documents/Projects/vampyre/util_files/base_attributes.json"
 path_base_abilities = "/home/julian/Documents/Projects/vampyre/util_files/base_abilities.json"
 path_complete_levels = "/home/julian/Documents/Projects/vampyre/util_files/complete_level_traits.json"
